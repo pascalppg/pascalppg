@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pascalppg
 - 👀 I’m interested in Data Engineering & Data Scientist
 - 🌱 I’m currently learning about Data Engineering & Software Engineering
-- 💞️ I’m looking to collaborate on my linkind
+- 💞️ I’m looking to collaborate on my [linkind] (https://www.linkedin.com/in/pascal-parlindungan-gultom-47a27b157/)
 - 📫 How to reach me in pascalparlindungan009@gmail.com
 
 <!---
